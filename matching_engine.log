@@ -1,0 +1,333 @@
+2025-10-19 12:06:49,087 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-19 12:07:06,319 - __main__ - [INFO] - Order: 0420dcf0-84f4-48f9-8112-5da6f8aac970
+2025-10-19 12:13:08,328 - __main__ - [INFO] - Shutting down...
+2025-10-19 12:13:08,341 - __main__ - [ERROR] - Error saving snapshot: Can't get local object 'OrderBook.__init__.<locals>.<lambda>'
+2025-10-19 12:13:08,342 - __main__ - [INFO] - Done
+2025-10-19 19:05:12,297 - __main__ - [ERROR] - Error loading snapshot: Ran out of input
+2025-10-19 19:05:12,300 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-19 19:05:52,722 - __main__ - [INFO] - Shutting down...
+2025-10-19 19:05:52,734 - __main__ - [INFO] - Snapshot saved
+2025-10-19 19:05:52,735 - __main__ - [INFO] - Done
+2025-10-19 19:07:11,909 - __main__ - [INFO] - Snapshot loaded
+2025-10-19 19:07:11,909 - __main__ - [INFO] - State restored
+2025-10-19 19:07:11,910 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-19 19:07:17,565 - __main__ - [INFO] - Order: 4e0dde21-73f8-4fd3-a40c-dbcacbfdd0e6
+2025-10-19 19:07:18,582 - __main__ - [INFO] - Order: ca738443-222f-4116-8010-706f03256199
+2025-10-19 19:07:19,598 - __main__ - [INFO] - Order: 24e99571-c947-4d0f-b04c-08036bec6d87
+2025-10-19 19:07:20,616 - __main__ - [INFO] - Order: 201e276b-6271-4959-9019-34fe0c769c9c
+2025-10-19 19:07:21,633 - __main__ - [INFO] - Order: 13def335-9ef5-4323-9e42-d535acd0bd05
+2025-10-19 19:07:51,324 - __main__ - [INFO] - Order: 39802bc8-9151-46a2-81ec-5788697488bc
+2025-10-19 19:08:46,984 - __main__ - [INFO] - Shutting down...
+2025-10-19 19:08:46,985 - __main__ - [ERROR] - Error saving snapshot: Can't get local object 'OrderBook.__init__.<locals>.<lambda>'
+2025-10-19 19:08:46,986 - __main__ - [INFO] - Done
+2025-10-19 23:46:38,786 - __main__ - [ERROR] - Error loading snapshot: Ran out of input
+2025-10-19 23:46:38,788 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-19 23:47:30,872 - __main__ - [INFO] - Shutting down...
+2025-10-19 23:47:30,885 - __main__ - [INFO] - Snapshot saved
+2025-10-19 23:47:30,888 - __main__ - [INFO] - Done
+2025-10-19 23:47:54,806 - __main__ - [INFO] - Snapshot loaded
+2025-10-19 23:47:54,806 - __main__ - [INFO] - State restored
+2025-10-19 23:47:54,807 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-19 23:48:29,008 - __main__ - [INFO] - Order: e8674c69-9817-441d-ac93-734225ab41c3
+2025-10-19 23:49:43,560 - __main__ - [INFO] - Shutting down...
+2025-10-19 23:49:43,561 - __main__ - [ERROR] - Error saving snapshot: Can't get local object 'OrderBook.__init__.<locals>.<lambda>'
+2025-10-19 23:49:43,561 - __main__ - [INFO] - Done
+2025-10-19 23:49:56,468 - __main__ - [ERROR] - Error loading snapshot: Ran out of input
+2025-10-19 23:49:56,469 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-19 23:57:01,747 - __main__ - [INFO] - Shutting down...
+2025-10-19 23:57:01,757 - __main__ - [INFO] - Snapshot saved
+2025-10-19 23:57:01,765 - __main__ - [INFO] - Done
+2025-10-19 23:57:25,493 - __main__ - [INFO] - Snapshot loaded
+2025-10-19 23:57:25,495 - __main__ - [INFO] - State restored
+2025-10-19 23:57:25,495 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-20 00:03:44,918 - __main__ - [INFO] - Order: 2dd79823-da11-498e-8679-1409040398e9
+2025-10-20 00:06:34,036 - __main__ - [INFO] - Order: 3f431ed9-a5fc-428c-be95-9f5eb27d006f
+2025-10-20 00:06:34,043 - __main__ - [INFO] - Order: 972b2ae7-2761-4453-9b6a-8b6162d03d51
+2025-10-20 00:06:34,046 - __main__ - [INFO] - Order: 074d8ab1-6e8c-4863-be2d-872bd2695956
+2025-10-20 00:06:34,052 - __main__ - [INFO] - Order: 230654b9-a9d4-45b5-a901-e85d2a8207fe
+2025-10-20 00:06:34,055 - __main__ - [INFO] - Order: 0436e2e7-fbac-480c-ae57-47b020cd072a
+2025-10-20 00:06:34,058 - __main__ - [INFO] - Order: 553283a9-5a83-412b-b179-a12fe708c281
+2025-10-20 00:06:34,061 - __main__ - [INFO] - Order: 584a0ed1-083b-410e-a100-6ecfc1441353
+2025-10-20 00:06:34,062 - __main__ - [INFO] - Order: 503ca36a-9620-43fa-838d-aca4e0ad9b6f
+2025-10-20 00:06:34,065 - __main__ - [INFO] - Order: 6be537a5-aff8-4525-926d-79fda7fd6c1a
+2025-10-20 00:06:34,067 - __main__ - [INFO] - Order: 04f85d81-861d-425f-b701-5216ff60d87d
+2025-10-20 00:06:34,069 - __main__ - [INFO] - Order: f334508a-1765-4081-8deb-aef5a35af408
+2025-10-20 00:06:34,071 - __main__ - [INFO] - Order: 6729e3de-45e2-4cf3-a6d0-ba0a4eb590f2
+2025-10-20 00:06:34,073 - __main__ - [INFO] - Order: f5ecf502-160b-440c-a55a-a129ae026998
+2025-10-20 00:06:34,076 - __main__ - [INFO] - Order: 4b0f5d48-054d-4189-b528-1c68bc2c14c6
+2025-10-20 00:06:34,078 - __main__ - [INFO] - Order: 2e62ee9e-5279-48e8-b1b5-86d6dcd08a62
+2025-10-20 00:06:34,081 - __main__ - [INFO] - Order: fb4be480-b759-454c-b004-5e3831672b26
+2025-10-20 00:06:34,083 - __main__ - [INFO] - Order: b931bb9a-a12e-4e28-b7ec-4c0cb574c6df
+2025-10-20 00:06:34,085 - __main__ - [INFO] - Order: 87965458-c0ad-454f-b6cc-fcf0a797d227
+2025-10-20 00:06:34,087 - __main__ - [INFO] - Order: fa8467a4-eaee-4e74-bf3c-ca3f6f63c934
+2025-10-20 00:06:34,090 - __main__ - [INFO] - Order: bd19f902-da09-490b-bc06-1674d5a21dd1
+2025-10-20 00:06:34,092 - __main__ - [INFO] - Order: c8f93a24-e4a6-468c-a0ba-185d5a3dd50e
+2025-10-20 00:06:34,095 - __main__ - [INFO] - Order: f48497bf-21ff-4c10-8579-aa94d60863a6
+2025-10-20 00:06:34,097 - __main__ - [INFO] - Order: 67353a90-48b0-4697-8e3d-3db69d1e5926
+2025-10-20 00:06:34,099 - __main__ - [INFO] - Order: 3b53ff45-4d04-45a3-b0c8-5476618a67c5
+2025-10-20 00:06:34,101 - __main__ - [INFO] - Order: f98b2a82-86b5-48d3-afe7-42104199cfe4
+2025-10-20 00:06:34,103 - __main__ - [INFO] - Order: b6659217-dc7d-40d5-aa16-668ba1c55c2b
+2025-10-20 00:06:34,106 - __main__ - [INFO] - Order: d624dd61-39ab-450d-a6f4-d71910a76a47
+2025-10-20 00:06:34,109 - __main__ - [INFO] - Order: 011937a0-3d98-468d-a66c-7d1345b3bef2
+2025-10-20 00:06:34,113 - __main__ - [INFO] - Order: 54d56a16-ed1d-45e8-982e-89c3591d103c
+2025-10-20 00:06:34,116 - __main__ - [INFO] - Order: d5741604-367a-471f-8c95-0694f6d002d0
+2025-10-20 00:06:34,119 - __main__ - [INFO] - Order: b05fde16-eb24-4ad5-8572-f5d135fa599f
+2025-10-20 00:06:34,121 - __main__ - [INFO] - Order: 350c7eb3-f756-4ad3-b0b1-309898c74c04
+2025-10-20 00:06:34,125 - __main__ - [INFO] - Order: b3f93698-2ced-4472-ab3a-1053951d02a4
+2025-10-20 00:06:34,129 - __main__ - [INFO] - Order: ae0ef87e-3dbb-4355-bf02-f5274eccce86
+2025-10-20 00:06:34,131 - __main__ - [INFO] - Order: 1c018846-81d1-4e50-b2f5-72e16d143e0b
+2025-10-20 00:06:34,133 - __main__ - [INFO] - Order: 59b3b2d8-7322-42f6-8d07-ba4c659e857a
+2025-10-20 00:06:34,133 - __main__ - [INFO] - Order: 130b2225-4ca1-48de-a206-553f9597df45
+2025-10-20 00:06:34,136 - __main__ - [INFO] - Order: 19f48a4a-e370-40ed-9082-b9d950d47abc
+2025-10-20 00:06:34,139 - __main__ - [INFO] - Order: 89d57ead-0bc5-4f7b-aff5-d51d25071814
+2025-10-20 00:06:34,141 - __main__ - [INFO] - Order: 86bd31a1-0108-4388-b1db-933452102c2e
+2025-10-20 00:06:34,144 - __main__ - [INFO] - Order: e61f6b32-d25b-4126-9a11-c79c2d321e26
+2025-10-20 00:06:34,145 - __main__ - [INFO] - Order: c652c2cb-3033-413d-a86f-66aaca8ba630
+2025-10-20 00:06:34,147 - __main__ - [INFO] - Order: 6749d4b8-1303-4eed-a147-7428d398278d
+2025-10-20 00:06:34,149 - __main__ - [INFO] - Order: 9ede4c33-c398-49c1-b055-35cfb8b33f02
+2025-10-20 00:06:34,152 - __main__ - [INFO] - Order: 14a93a73-76b4-445b-b51b-11ae60f510e3
+2025-10-20 00:06:34,155 - __main__ - [INFO] - Order: b5dd4cfb-6bd5-411a-9579-3b64498e4063
+2025-10-20 00:06:34,157 - __main__ - [INFO] - Order: 8d65bcb9-aeb3-451c-ab3e-21a1acdadc7d
+2025-10-20 00:06:34,160 - __main__ - [INFO] - Order: bf663898-fa1f-4a2f-bd9c-92c35885c89d
+2025-10-20 00:06:34,164 - __main__ - [INFO] - Order: f4e5aa38-26e8-409c-9006-3e7d0a411d20
+2025-10-20 00:06:34,166 - __main__ - [INFO] - Order: 6f4a4a92-f4f7-4048-b509-f543d2658664
+2025-10-20 00:06:34,169 - __main__ - [INFO] - Order: f86b598b-0a4b-4620-a97e-548eb68057d1
+2025-10-20 00:06:34,171 - __main__ - [INFO] - Order: c90dd350-2aee-4d57-8377-e20a6e6de557
+2025-10-20 00:06:34,173 - __main__ - [INFO] - Order: 76ad294b-7b7c-43ac-8e0a-92e6fbf21c31
+2025-10-20 00:06:34,177 - __main__ - [INFO] - Order: eb984187-d6b6-4fae-8f67-3278f0e5be60
+2025-10-20 00:06:34,180 - __main__ - [INFO] - Order: 85536ba9-8d62-41f4-a46d-7af903a1f275
+2025-10-20 00:06:34,182 - __main__ - [INFO] - Order: 3162ac17-9a11-457a-aa56-c9cda3c5a552
+2025-10-20 00:06:34,185 - __main__ - [INFO] - Order: ef2ab343-f239-4bbc-a55b-438062993e8e
+2025-10-20 00:06:34,188 - __main__ - [INFO] - Order: bd12b0c1-3aa6-4592-9b1c-b4cb7d3ab9a8
+2025-10-20 00:06:34,190 - __main__ - [INFO] - Order: a881e630-4800-4f72-94b1-25ec71b04c59
+2025-10-20 00:06:34,193 - __main__ - [INFO] - Order: d314e5a0-91b7-456c-afee-d01003cccee5
+2025-10-20 00:06:34,195 - __main__ - [INFO] - Order: 7a2ecace-18a7-4fb6-b768-11fde2a496f4
+2025-10-20 00:06:34,197 - __main__ - [INFO] - Order: 491e0ae3-4e37-41db-a270-87350aefcccc
+2025-10-20 00:06:34,199 - __main__ - [INFO] - Order: cbe0d949-1dc0-428b-9aa0-a7285bd9156e
+2025-10-20 00:06:34,201 - __main__ - [INFO] - Order: 01ad0aac-f20d-49c0-a84f-6633f24bb9de
+2025-10-20 00:06:34,203 - __main__ - [INFO] - Order: e07d2992-36c7-4bea-84e5-9285bb2a00a9
+2025-10-20 00:06:34,206 - __main__ - [INFO] - Order: fdca8cbc-7ca0-4d1b-9008-d6f03ade3998
+2025-10-20 00:06:34,209 - __main__ - [INFO] - Order: f0fa26b8-326d-4550-879a-f7508477f270
+2025-10-20 00:06:34,214 - __main__ - [INFO] - Order: e7b7bd62-4904-4f6f-8c86-7385841d0eab
+2025-10-20 00:06:34,216 - __main__ - [INFO] - Order: 1e5cd668-5efc-4a53-8c2f-3bb0e38ff266
+2025-10-20 00:06:34,218 - __main__ - [INFO] - Order: 054bc4d9-b5d3-465f-b55f-80946ee33517
+2025-10-20 00:06:34,220 - __main__ - [INFO] - Order: 98206f3d-08e4-4d21-9b3f-eb200aa37c03
+2025-10-20 00:06:34,222 - __main__ - [INFO] - Order: ff882e6f-e81b-4780-b8cf-2b5eebb7d721
+2025-10-20 00:06:34,223 - __main__ - [INFO] - Order: 7347eee2-b1b0-4928-b3c1-d58ef6b718b7
+2025-10-20 00:06:34,226 - __main__ - [INFO] - Order: 273cee97-3ab6-4b12-aee9-e2df7dd21380
+2025-10-20 00:06:34,229 - __main__ - [INFO] - Order: 16ae7061-6032-4d0c-afc7-6e5e03161ef8
+2025-10-20 00:06:34,231 - __main__ - [INFO] - Order: 7ebede5d-1bcb-45f2-b4ab-9a12130d4f56
+2025-10-20 00:06:34,232 - __main__ - [INFO] - Order: a0c20bff-689c-4e94-8eaf-b7e0e3032ba1
+2025-10-20 00:06:34,235 - __main__ - [INFO] - Order: de3e3406-47c3-4e4a-be85-858f1c397541
+2025-10-20 00:06:34,237 - __main__ - [INFO] - Order: 3f090f7a-d980-4a4f-afdf-3025bfa214f7
+2025-10-20 00:06:34,239 - __main__ - [INFO] - Order: ed2b22fd-7ee6-4b30-822a-65d4b6ff42e6
+2025-10-20 00:06:34,241 - __main__ - [INFO] - Order: 1758bc3e-db8e-47ff-83f6-8158c4d6b101
+2025-10-20 00:06:34,244 - __main__ - [INFO] - Order: af64fbc4-325d-4209-a9c9-9927638d33bf
+2025-10-20 00:06:34,252 - __main__ - [INFO] - Order: 6eae716b-9298-48c7-b91a-7cd5beb66067
+2025-10-20 00:06:34,255 - __main__ - [INFO] - Order: 085758df-3384-4399-a661-718da6ba4198
+2025-10-20 00:06:34,269 - __main__ - [INFO] - Order: 166fcdb3-585c-4454-9002-ed1f51468448
+2025-10-20 00:06:34,278 - __main__ - [INFO] - Order: c368f779-ce3a-4e58-92e1-7ad5b8f10f09
+2025-10-20 00:06:34,289 - __main__ - [INFO] - Order: 30228a68-be1b-41c0-a4b3-7091178613f0
+2025-10-20 00:06:34,314 - __main__ - [INFO] - Order: fbacc087-ff27-4a69-b47c-968478a1cef9
+2025-10-20 00:06:34,318 - __main__ - [INFO] - Order: 308c68ef-514c-4229-8992-18477ee805b1
+2025-10-20 00:06:34,321 - __main__ - [INFO] - Order: e6518cf9-8ced-4e15-904f-1d0c87c879f0
+2025-10-20 00:06:34,325 - __main__ - [INFO] - Order: 385f29a7-56cf-41c7-9212-715549362718
+2025-10-20 00:06:34,338 - __main__ - [INFO] - Order: a070978b-0fb5-45e8-9218-63bae9eee82a
+2025-10-20 00:06:34,341 - __main__ - [INFO] - Order: ded83b5d-542d-40f3-9ea0-141e2e06eb27
+2025-10-20 00:06:34,344 - __main__ - [INFO] - Order: 3d904d98-371b-43cd-945e-240aaf4b1fd4
+2025-10-20 00:06:34,345 - __main__ - [INFO] - Order: df94e02c-431e-4e6c-9702-7d189694e98c
+2025-10-20 00:06:34,347 - __main__ - [INFO] - Order: c0905dbc-e0cf-48fc-bf5e-ddacb3ed1d1f
+2025-10-20 00:06:34,350 - __main__ - [INFO] - Order: 2991e2f4-5bde-4eb6-9518-7ddc92eb194a
+2025-10-20 00:06:34,352 - __main__ - [INFO] - Order: 288cbd15-a226-44c7-9ef0-15c2b7af7f87
+2025-10-20 00:06:34,354 - __main__ - [INFO] - Order: 231fb3a1-865a-4d1c-9146-2d9b6a4771bc
+2025-10-20 00:06:34,360 - __main__ - [ERROR] - Error saving snapshot: Can't get local object 'OrderBook.__init__.<locals>.<lambda>'
+2025-10-20 00:06:34,363 - __main__ - [INFO] - Order: 693614ef-2cb3-404e-ad54-6af68fbe3665
+2025-10-20 00:06:34,632 - __main__ - [INFO] - Order: 6b358ac1-c58d-4d77-942b-9cda00c2498b
+2025-10-20 00:06:34,635 - __main__ - [INFO] - Order: 91ee4fa4-6d6f-47ab-bd78-c1a111c24e24
+2025-10-20 00:06:34,637 - __main__ - [INFO] - Order: b45d46f1-bcf3-4b30-a3c3-4380932285fc
+2025-10-20 00:06:34,639 - __main__ - [INFO] - Order: 6baaa36f-25cf-46e6-90f9-82fded074e4d
+2025-10-20 00:06:34,641 - __main__ - [INFO] - Order: 93be6637-f31b-4986-9125-7351bf51768b
+2025-10-20 00:06:34,644 - __main__ - [INFO] - Order: 4f5ee13c-fc8d-4ab8-af30-768a9c2d379b
+2025-10-20 00:06:34,646 - __main__ - [INFO] - Order: ed973200-98da-4d7d-ae24-05d8028ec313
+2025-10-20 00:06:34,648 - __main__ - [INFO] - Order: 28861581-5e97-402e-9da1-a82a02d49d4b
+2025-10-20 00:06:34,650 - __main__ - [INFO] - Order: 7815cff9-6ca0-4e7a-9959-021376d239af
+2025-10-20 00:06:34,652 - __main__ - [INFO] - Order: 2e042196-34cc-4880-8aa4-7574ae990d33
+2025-10-20 00:06:34,653 - __main__ - [INFO] - Order: d328ac40-15d0-42a7-9f5a-324296d9bb35
+2025-10-20 00:06:34,656 - __main__ - [INFO] - Order: 27a898d0-18f6-49fc-8401-3b07cd19155a
+2025-10-20 00:06:34,659 - __main__ - [INFO] - Order: 06777fbc-8d83-46c7-b4fa-c7315ab9fab4
+2025-10-20 00:06:34,660 - __main__ - [INFO] - Order: de48b851-d9fa-4a6d-87ff-baee25d377a6
+2025-10-20 00:06:34,663 - __main__ - [INFO] - Order: 998da96e-969c-4b47-9828-208d781e80cd
+2025-10-20 00:06:34,666 - __main__ - [INFO] - Order: 33188a19-a3cd-41b6-b50d-bb3f08c2a4b5
+2025-10-20 00:06:34,668 - __main__ - [INFO] - Order: aaa6c83d-f1e4-4afd-81c7-c1eed51a39e4
+2025-10-20 00:06:34,669 - __main__ - [INFO] - Order: 840b3e53-8e37-4d54-9554-459082bf7db3
+2025-10-20 00:06:34,671 - __main__ - [INFO] - Order: 2eb9c07e-c85c-4f7a-a597-016813448241
+2025-10-20 00:06:34,672 - __main__ - [INFO] - Order: af19d60b-fea4-4a73-a603-05b9fba2ba43
+2025-10-20 00:06:34,674 - __main__ - [INFO] - Order: e3278ce2-3813-4c25-b9fe-78c810d4f72c
+2025-10-20 00:06:34,679 - __main__ - [INFO] - Order: 50afd52e-cf2a-4851-a278-dabf959bfe52
+2025-10-20 00:06:34,682 - __main__ - [INFO] - Order: 9becd219-34b4-4a2e-ac8d-97bcc7f2e339
+2025-10-20 00:06:34,684 - __main__ - [INFO] - Order: b8d3de44-d0b7-4bdd-868b-e880b6dfaafd
+2025-10-20 00:06:34,686 - __main__ - [INFO] - Order: e31b915b-55f9-4541-926f-5e28ff04aeab
+2025-10-20 00:06:34,688 - __main__ - [INFO] - Order: 06319c0a-92c6-497f-8c0d-1ee60033386d
+2025-10-20 00:06:34,690 - __main__ - [INFO] - Order: e3183bea-931a-46d7-a0e2-4f278fc8beb2
+2025-10-20 00:06:34,692 - __main__ - [INFO] - Order: 7a5aaf5f-708a-4ebd-a50e-9620f927b4b4
+2025-10-20 00:06:34,697 - __main__ - [INFO] - Order: dcf18b96-8ead-425b-b268-97f9366d2529
+2025-10-20 00:06:34,700 - __main__ - [INFO] - Order: 71fb16aa-5036-4165-8c1d-d7a5119e01f0
+2025-10-20 00:06:34,702 - __main__ - [INFO] - Order: ed071f85-f220-48c4-be74-f10b564dc3b9
+2025-10-20 00:06:34,705 - __main__ - [INFO] - Order: c95d46af-5d54-438e-b19b-718e806771cb
+2025-10-20 00:06:34,707 - __main__ - [INFO] - Order: bee20105-e21d-44dc-9c66-ac2a50c7e54b
+2025-10-20 00:06:34,712 - __main__ - [INFO] - Order: 46885923-88cf-43ea-8b7d-1a1b1ba1253b
+2025-10-20 00:06:34,716 - __main__ - [INFO] - Order: 9f8b8224-5a84-45e0-8fbe-eeb60026eddb
+2025-10-20 00:06:34,719 - __main__ - [INFO] - Order: 910ce5fd-472c-4dc0-a7c0-269bbdb1d174
+2025-10-20 00:06:34,721 - __main__ - [INFO] - Order: aa78a4e8-3410-4bf7-b5d9-41479f270ccd
+2025-10-20 00:06:34,723 - __main__ - [INFO] - Order: 5a19b3ec-affb-44e7-94be-f502b76b6339
+2025-10-20 00:06:34,726 - __main__ - [INFO] - Order: 98246726-fab3-4cf0-803e-0a1c976dd00a
+2025-10-20 00:06:34,730 - __main__ - [INFO] - Order: 45e2a7f9-2376-4fc8-928a-494636f1de41
+2025-10-20 00:06:34,732 - __main__ - [INFO] - Order: 3cbe7074-d336-4c07-90a9-f3e330fd7c91
+2025-10-20 00:06:34,735 - __main__ - [INFO] - Order: 44f25ac6-a2f2-4a29-bb40-bc25f2bf2a94
+2025-10-20 00:06:34,738 - __main__ - [INFO] - Order: d3e48526-e9df-4373-b5ff-970c9bef6631
+2025-10-20 00:06:34,742 - __main__ - [INFO] - Order: 28afa209-865f-4f1e-836f-508a4c8f8a50
+2025-10-20 00:06:34,748 - __main__ - [INFO] - Order: 0bcc7c4d-8024-4e95-ac81-b6676f81fab5
+2025-10-20 00:06:34,750 - __main__ - [INFO] - Order: ea0bbba2-979f-4983-971d-a22ec7284747
+2025-10-20 00:06:34,753 - __main__ - [INFO] - Order: f32a44d3-f9da-4f93-b715-cd6b6a42c638
+2025-10-20 00:06:34,756 - __main__ - [INFO] - Order: 3c019ed3-aa59-4e9e-a59c-585700c108a8
+2025-10-20 00:06:34,761 - __main__ - [INFO] - Order: 5a009f9a-a8ec-42f4-8998-3a87aeba7def
+2025-10-20 00:06:34,763 - __main__ - [INFO] - Order: d9a04bb6-b23c-4599-9b49-3424feec1273
+2025-10-20 00:06:35,024 - __main__ - [INFO] - Order: ee345046-31d9-4f96-8da7-24bb092eca2c
+2025-10-20 00:06:35,028 - __main__ - [INFO] - Order: f0194891-588e-4234-ab55-f9fd0d2fe03b
+2025-10-20 00:06:35,030 - __main__ - [INFO] - Order: ffeb3db6-9b6b-4f5d-921c-ae3145173c6b
+2025-10-20 00:06:35,033 - __main__ - [INFO] - Order: 78d64290-3766-4beb-adaa-6f61e8437444
+2025-10-20 00:06:35,035 - __main__ - [INFO] - Order: 50421d73-9369-4619-9dbb-be88fd4894f2
+2025-10-20 00:06:35,038 - __main__ - [INFO] - Order: f69c6df6-c19c-414d-9406-e2f32477b5ce
+2025-10-20 00:06:35,041 - __main__ - [INFO] - Order: 5ea684a3-afb5-407c-9b51-8c8bfe9c1bcb
+2025-10-20 00:06:35,044 - __main__ - [INFO] - Order: af3f2184-381e-4821-9676-95be2ca6ef32
+2025-10-20 00:06:35,047 - __main__ - [INFO] - Order: 3a1caa1b-34f4-4c38-89b8-5eb1ccbe2346
+2025-10-20 00:06:35,050 - __main__ - [INFO] - Order: d5c795da-67c5-4a7d-be99-31fc9e93cde8
+2025-10-20 00:06:35,052 - __main__ - [INFO] - Order: 003a3ce0-f94f-497c-91cd-671779707af4
+2025-10-20 00:06:35,055 - __main__ - [INFO] - Order: 334e1e0f-3182-434c-a9ba-ad6d668dde7d
+2025-10-20 00:06:35,057 - __main__ - [INFO] - Order: 673636f8-23a1-495d-afb8-c8f25e1543ad
+2025-10-20 00:06:35,061 - __main__ - [INFO] - Order: d78a796a-9ec0-4e55-a27f-0cb71d4931d7
+2025-10-20 00:06:35,063 - __main__ - [INFO] - Order: c29ab5d4-ba14-49a0-b676-a175e1803a35
+2025-10-20 00:06:35,066 - __main__ - [INFO] - Order: 8ca14974-5c07-4341-b9cf-73be4c4ba4f9
+2025-10-20 00:06:35,068 - __main__ - [INFO] - Order: 3badf3db-00c8-4524-931e-e4bb24ee2d8e
+2025-10-20 00:06:35,071 - __main__ - [INFO] - Order: 9c095c3a-b6df-4950-9515-e5be36d961bd
+2025-10-20 00:06:35,073 - __main__ - [INFO] - Order: 7df1ab01-d79a-456b-a399-af073dd6581e
+2025-10-20 00:06:35,075 - __main__ - [INFO] - Order: 61106211-34fe-4fd4-88de-f46b05fea2ea
+2025-10-20 00:06:35,080 - __main__ - [INFO] - Order: 181799ba-b5f5-49a8-8aa7-7e3b0c94bcb2
+2025-10-20 00:06:35,082 - __main__ - [INFO] - Order: 7211637f-5485-4622-85ca-0de34655a949
+2025-10-20 00:06:35,086 - __main__ - [INFO] - Order: b44ad260-01fd-4938-acdc-2eaf3d368445
+2025-10-20 00:06:35,088 - __main__ - [INFO] - Order: d1716e0f-b7d7-4f91-9085-92361faef1e0
+2025-10-20 00:06:35,091 - __main__ - [INFO] - Order: 2a406295-e174-442c-a68c-4053284bcf76
+2025-10-20 00:06:35,093 - __main__ - [INFO] - Order: 3ab4d23f-7270-4f64-987d-526ce1d10997
+2025-10-20 00:06:35,097 - __main__ - [INFO] - Order: f5b93947-748a-41e3-bba9-10069a386e8b
+2025-10-20 00:06:35,098 - __main__ - [INFO] - Order: 71cf072a-6606-4107-adff-3eb1b991f9e7
+2025-10-20 00:06:35,101 - __main__ - [INFO] - Order: ecb43a09-b28b-4e60-bf2b-083af32250f6
+2025-10-20 00:06:35,103 - __main__ - [INFO] - Order: 14646f29-44b3-475f-a952-2f5b9c8f6095
+2025-10-20 00:06:35,105 - __main__ - [INFO] - Order: 8ab02b3a-e847-4e93-96cc-3f2bfac699b8
+2025-10-20 00:06:35,107 - __main__ - [INFO] - Order: 48b59917-8d06-4681-8760-ca9dac19943d
+2025-10-20 00:06:35,112 - __main__ - [INFO] - Order: ed9217fa-e52b-40e8-8ca7-06cede727fdf
+2025-10-20 00:06:35,113 - __main__ - [INFO] - Order: f89cca2d-696a-428f-b70a-cf13afd27b28
+2025-10-20 00:06:35,115 - __main__ - [INFO] - Order: eddbba98-4a34-46d5-a43d-de0703c47016
+2025-10-20 00:06:35,118 - __main__ - [INFO] - Order: 592c1e92-2f05-40bd-814e-0d4127864649
+2025-10-20 00:06:35,119 - __main__ - [INFO] - Order: 8022ff04-7011-4fa2-8677-fdcca88a5c6b
+2025-10-20 00:06:35,121 - __main__ - [INFO] - Order: 7ed64eb8-6ac6-480c-9a0d-b045f97de4b6
+2025-10-20 00:06:35,125 - __main__ - [INFO] - Order: 1bdbdc8a-c6ee-48f2-97ae-0817af1574ea
+2025-10-20 00:06:35,130 - __main__ - [INFO] - Order: 930c17cf-a556-4775-8030-9d1095d6c475
+2025-10-20 00:06:35,132 - __main__ - [INFO] - Order: 1caef2e2-f3b4-4ff4-b236-8fe17362a408
+2025-10-20 00:06:35,134 - __main__ - [INFO] - Order: 15c3e2d7-a6c9-4655-a6f1-71bf63ab2f93
+2025-10-20 00:06:35,135 - __main__ - [INFO] - Order: e3aebfce-11f2-4cc2-b5db-e6c5e36a2155
+2025-10-20 00:06:35,138 - __main__ - [INFO] - Order: 7a60db78-8610-4ae3-af3b-1acdf9d83d95
+2025-10-20 00:06:35,139 - __main__ - [INFO] - Order: a321e940-0596-4674-ad56-3d7b31db1465
+2025-10-20 00:06:35,142 - __main__ - [INFO] - Order: 5c8bf66c-0496-4584-b756-9ff0722e3b63
+2025-10-20 00:06:35,148 - __main__ - [INFO] - Order: b820669e-fb56-413f-9baa-de74d0cb9053
+2025-10-20 00:06:35,151 - __main__ - [INFO] - Order: 8fdb8853-3f1a-409b-a3f5-2583afbaa5cc
+2025-10-20 00:06:35,153 - __main__ - [INFO] - Order: 04b00d84-3c16-43a2-a984-33a9b4eabdc9
+2025-10-20 00:06:35,154 - __main__ - [ERROR] - Error saving snapshot: Can't get local object 'OrderBook.__init__.<locals>.<lambda>'
+2025-10-20 00:06:35,156 - __main__ - [INFO] - Order: 026e8ccd-ea91-4ba1-923c-82bda6a51677
+2025-10-20 00:06:35,182 - __main__ - [INFO] - Order: d2d8cbe0-93bf-455f-b93c-278627a9c619
+2025-10-20 00:06:35,187 - __main__ - [INFO] - Order: 29d85354-6917-480d-ad94-1f4e25e16c87
+2025-10-20 00:06:35,188 - __main__ - [INFO] - Order: ddef2b59-e13c-42f3-931b-d1f2bba6ddfa
+2025-10-20 00:06:35,189 - __main__ - [INFO] - Order: 315515bc-1ac6-4aaa-bfeb-3a5bcfa17fa0
+2025-10-20 00:06:35,192 - __main__ - [INFO] - Order: 0e869e1c-fad0-4dc4-8b0e-70e05a08d4f9
+2025-10-20 00:06:35,195 - __main__ - [INFO] - Order: 93c4c9e3-9f36-4d9c-bd82-54b81ceccc52
+2025-10-20 00:06:35,196 - __main__ - [INFO] - Order: 68592dd6-75a1-4120-a27c-9961b54ffc09
+2025-10-20 00:06:35,201 - __main__ - [INFO] - Order: b0be2046-0a87-4e16-add5-66babd007475
+2025-10-20 00:06:35,204 - __main__ - [INFO] - Order: cc78b7dc-bbdb-4acc-8dc2-85219ae84bd1
+2025-10-20 00:06:35,206 - __main__ - [INFO] - Order: b426bd14-8ca1-4798-95b9-8526efd27581
+2025-10-20 00:06:35,209 - __main__ - [INFO] - Order: f013b647-d48d-4a1b-9c8c-29b467645285
+2025-10-20 00:06:35,212 - __main__ - [INFO] - Order: 06602f55-32ed-4658-8625-70522b8ef0d2
+2025-10-20 00:06:35,213 - __main__ - [INFO] - Order: 714eda2a-92d5-4b33-b6f3-be4bd71da5d3
+2025-10-20 00:06:35,214 - __main__ - [INFO] - Order: 81888f3e-9df9-4b4c-9fbe-1a6c9270c127
+2025-10-20 00:06:35,215 - __main__ - [INFO] - Order: e9bbc938-15fc-4ceb-bdfa-d2805c6e1605
+2025-10-20 00:06:35,216 - __main__ - [INFO] - Order: 5efb42c3-5fba-4933-9108-fe7fdb1853dd
+2025-10-20 00:06:35,218 - __main__ - [INFO] - Order: 1200adeb-ce6f-4963-944c-61e0f22e88b0
+2025-10-20 00:06:35,219 - __main__ - [INFO] - Order: 026b97dc-cf9f-48fa-8ea5-6abcdbdc0c36
+2025-10-20 00:06:35,220 - __main__ - [INFO] - Order: 2ffc56ac-c297-4fe3-9420-313cec654bfa
+2025-10-20 00:06:35,222 - __main__ - [INFO] - Order: 943c5739-fc56-4e61-b3c0-847f2bf49bf1
+2025-10-20 00:06:35,225 - __main__ - [INFO] - Order: 1b0f2b94-c9a3-4684-8e45-f30e2d61bbc3
+2025-10-20 00:06:35,227 - __main__ - [INFO] - Order: 85da416c-bdc2-4ae4-8286-c51924c0f9f8
+2025-10-20 00:06:35,228 - __main__ - [INFO] - Order: c0e6ef68-2425-4114-9144-876be5467a67
+2025-10-20 00:06:35,230 - __main__ - [INFO] - Order: ff3cd17a-a195-43de-a317-de5a182ddfec
+2025-10-20 00:06:35,231 - __main__ - [INFO] - Order: 0246a601-efd0-4ea9-894e-1d7cbf5aba7a
+2025-10-20 00:06:35,437 - __main__ - [INFO] - Order: ae969a85-c09c-41bd-8c50-0fb77d6fbe10
+2025-10-20 00:06:35,441 - __main__ - [INFO] - Order: 3b25185f-a768-4b33-8de6-9f6b0517a4b2
+2025-10-20 00:06:35,444 - __main__ - [INFO] - Order: fd14b3cd-c505-487e-bf7b-c3cdf958927b
+2025-10-20 00:06:35,446 - __main__ - [INFO] - Order: 8b763da0-512c-4907-80d3-90dbb3dc7fd5
+2025-10-20 00:06:35,448 - __main__ - [INFO] - Order: 68aee2e2-9095-457c-b84c-c0beff1ac569
+2025-10-20 00:06:35,449 - __main__ - [INFO] - Order: da1bf847-a640-4396-a9f3-a79a2178e9f5
+2025-10-20 00:06:35,450 - __main__ - [INFO] - Order: 2ba554a6-5f53-4464-a2f3-690eaf1d950a
+2025-10-20 00:06:35,453 - __main__ - [INFO] - Order: 836d9d1d-0f33-4cdd-b284-c37e64bd1f74
+2025-10-20 00:06:35,454 - __main__ - [INFO] - Order: ee11e5b3-02b8-4cc3-9333-9ee878ae7967
+2025-10-20 00:06:35,455 - __main__ - [INFO] - Order: 796d3c50-21f3-4f0e-9f05-88c993b2dca7
+2025-10-20 00:06:35,458 - __main__ - [INFO] - Order: 64de41bb-c3db-427f-8f1f-8932c62aca90
+2025-10-20 00:06:35,460 - __main__ - [INFO] - Order: 65b0005d-e26d-4616-9421-9f2f0b4965d8
+2025-10-20 00:06:35,464 - __main__ - [INFO] - Order: 520c0fa3-190a-4b98-990c-385b638d4b1c
+2025-10-20 00:06:35,466 - __main__ - [INFO] - Order: 3cf6efeb-219f-49e4-a4cc-7fd44c6d7b67
+2025-10-20 00:06:35,467 - __main__ - [INFO] - Order: a59dfab6-0b9d-4055-baf0-763ec65a1abd
+2025-10-20 00:06:35,468 - __main__ - [INFO] - Order: 077742ab-4af8-45db-bb7c-89a7b48e6417
+2025-10-20 00:06:35,470 - __main__ - [INFO] - Order: c07f467d-a6e8-44af-a76c-a5ee4036b990
+2025-10-20 00:06:35,471 - __main__ - [INFO] - Order: 6da7e16d-f926-4816-9e74-67c612939647
+2025-10-20 00:06:35,472 - __main__ - [INFO] - Order: 5cad7447-fb87-4a73-8efd-92f47de7495a
+2025-10-20 00:06:35,473 - __main__ - [INFO] - Order: 1d0e8850-432c-43d2-b17d-22ea97b9fc25
+2025-10-20 00:06:35,475 - __main__ - [INFO] - Order: 8f775621-884d-4ce8-af62-f577b6cc479e
+2025-10-20 00:06:35,476 - __main__ - [INFO] - Order: 08b1501c-72c2-40f2-8d97-56368cf5a2ed
+2025-10-20 00:06:35,477 - __main__ - [INFO] - Order: 475f0f97-f5cf-4b37-b42c-114fe2c395c8
+2025-10-20 00:06:35,478 - __main__ - [INFO] - Order: 2b6f7bcb-8175-4f69-abdf-ea5608f1a7ba
+2025-10-20 00:06:35,479 - __main__ - [INFO] - Order: 98d9ecd5-aec2-45be-b098-767ec7586fbc
+2025-10-20 14:59:50,868 - __main__ - [ERROR] - Error loading snapshot: Ran out of input
+2025-10-20 14:59:50,869 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-20 15:00:08,672 - __main__ - [INFO] - Order: e05cc67f-4c84-4297-b6fa-08546f6b621b
+2025-10-20 15:00:10,751 - __main__ - [INFO] - Order: 14d763b1-4fde-4158-807b-10a4335f825a
+2025-10-20 15:10:14,626 - __main__ - [INFO] - Shutting down...
+2025-10-20 15:10:14,635 - __main__ - [ERROR] - Error saving snapshot: Can't get local object 'OrderBook.__init__.<locals>.<lambda>'
+2025-10-20 15:10:14,637 - __main__ - [INFO] - Done
+2025-10-20 15:27:33,801 - __main__ - [ERROR] - Error loading snapshot: Ran out of input
+2025-10-20 15:27:33,803 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-20 15:27:46,655 - __main__ - [INFO] - Order submitted: 91bb62ca-2b25-438c-b314-c7bbb75ec711
+2025-10-20 15:27:48,755 - __main__ - [INFO] - Order submitted: 918f0dbc-368c-48b9-a0e9-ef083bc4053c
+2025-10-20 15:27:58,429 - __main__ - [INFO] - Shutting down matching engine...
+2025-10-20 15:27:58,444 - __main__ - [INFO] - Snapshot saved successfully
+2025-10-20 15:27:58,445 - __main__ - [INFO] - Shutdown complete
+2025-10-20 15:29:01,237 - __main__ - [INFO] - Snapshot loaded successfully
+2025-10-20 15:29:01,238 - __main__ - [INFO] - State restored from snapshot
+2025-10-20 15:29:01,239 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-20 15:29:12,583 - __main__ - [INFO] - Order submitted: fd5c6c6f-9b40-4bdb-8017-96a45793e731
+2025-10-20 15:29:14,665 - __main__ - [INFO] - Order submitted: 7a756021-ff0d-43e1-b978-19b738cdf491
+2025-10-20 15:29:21,976 - __main__ - [INFO] - Shutting down matching engine...
+2025-10-20 15:29:21,990 - __main__ - [INFO] - Snapshot saved successfully
+2025-10-20 15:29:21,991 - __main__ - [INFO] - Shutdown complete
+2025-10-20 15:36:14,082 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-20 15:36:20,989 - __main__ - [INFO] - Order submitted: 2aea594f-db2c-4790-aa9b-fcab312dedbe
+2025-10-20 15:36:23,091 - __main__ - [INFO] - Order submitted: 7b635d4d-81fd-4679-ae35-f12e46ce0077
+2025-10-20 15:36:34,961 - __main__ - [INFO] - Shutting down matching engine...
+2025-10-20 15:36:34,974 - __main__ - [INFO] - Snapshot saved successfully
+2025-10-20 15:36:34,975 - __main__ - [INFO] - Shutdown complete
+2025-10-20 18:05:43,374 - __main__ - [INFO] - Snapshot loaded successfully
+2025-10-20 18:05:43,377 - __main__ - [INFO] - State restored from snapshot
+2025-10-20 18:05:43,378 - __main__ - [INFO] - Engine v3.0 initialized
+2025-10-20 18:07:02,457 - __main__ - [INFO] - Order submitted: 2a6e87a7-9410-476e-abf6-12d2132fdc38
+2025-10-20 18:07:04,550 - __main__ - [INFO] - Order submitted: 37b328c9-ca8b-4af8-8cf4-be2f7dd26663
+2025-10-20 18:07:23,789 - __main__ - [INFO] - Order submitted: 32cbca2b-2262-4f1b-bec9-d2ad7e31c2c5
+2025-10-20 18:07:24,953 - __main__ - [INFO] - Order submitted: d00743a0-8a2d-4457-9f70-92136be27af3
+2025-10-20 18:07:25,986 - __main__ - [INFO] - Order submitted: b5529d59-68a4-48b3-93dd-0ce22ec419fa
+2025-10-20 18:07:27,000 - __main__ - [INFO] - Order submitted: cd6f0dbf-05e3-4c09-ab8d-f8c2e55a41bf
+2025-10-20 18:07:28,017 - __main__ - [INFO] - Order submitted: 662f53a6-f336-4696-aaff-6a4682c75700
